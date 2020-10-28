@@ -1,0 +1,2649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Awis>
+	<OperationRequest>
+		<RequestId>cce1ea78-1bbe-454c-9289-fcdb68a33c8c</RequestId>
+	</OperationRequest>
+	<Results>
+		<Result>
+			<Alexa>
+				<Request>
+					<Arguments>
+						<Argument>
+							<Name>path</Name>
+							<Value>Top/News</Value>
+						</Argument>
+						<Argument>
+							<Name>start</Name>
+							<Value>1</Value>
+						</Argument>
+						<Argument>
+							<Name>count</Name>
+							<Value>20</Value>
+						</Argument>
+						<Argument>
+							<Name>descriptions</Name>
+							<Value>True</Value>
+						</Argument>
+						<Argument>
+							<Name>recursive</Name>
+							<Value>True</Value>
+						</Argument>
+						<Argument>
+							<Name>responsegroup</Name>
+							<Value>Listings</Value>
+						</Argument>
+					</Arguments>
+				</Request>
+				<CategoryListings>
+					<RecursiveCount>5170</RecursiveCount>
+					<Count>36</Count>
+					<Listings>
+						<Listing>
+							<DataUrl type="navigable">www.reddit.com</DataUrl>
+							<Title>Reddit</Title>
+							<PopularityRank>18</PopularityRank>
+							<Description>User-generated news links. Votes promote stories to the front page.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">news.google.com</DataUrl>
+							<Title>Google News</Title>
+							<PopularityRank>64</PopularityRank>
+							<Description>Aggregated headlines and a search engine of many of the world's news sources.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.cnn.com</DataUrl>
+							<Title>CNN - Cable News Network</Title>
+							<PopularityRank>73</PopularityRank>
+							<Description>Includes US and international stories and analysis, weather, video clips, and program schedule.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nytimes.com</DataUrl>
+							<Title>New York Times</Title>
+							<PopularityRank>80</PopularityRank>
+							<Description>Online edition of the newspaper's news and commentary.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">indiatimes.com</DataUrl>
+							<Title>India Times</Title>
+							<PopularityRank>103</PopularityRank>
+							<Description>Covers home and international updates, sports, entertainment, health and lifestyle. With sections for weird and trending news.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theguardian.com</DataUrl>
+							<Title>The Guardian</Title>
+							<PopularityRank>115</PopularityRank>
+							<Description>Home of the Guardian, Observer and Guardian Weekly newspapers plus special-interest web sites. Each includes news, comment and features plus breaking news, multimedia, ongoing special reports and free archives.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.shutterstock.com</DataUrl>
+							<Title>Shutterstock</Title>
+							<PopularityRank>146</PopularityRank>
+							<Description>Royalty-free photography for web or print, subscription model.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.washingtonpost.com</DataUrl>
+							<Title>Washington Post</Title>
+							<PopularityRank>160</PopularityRank>
+							<Description>Daily. Offers news, opinion, sports, arts and living and entertainment. Includes archives since 1977 and subscription information.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.forbes.com</DataUrl>
+							<Title>Forbes.com</Title>
+							<PopularityRank>174</PopularityRank>
+							<Description>Business news and financial news by Forbes.com. Core topics include business, technology, stock markets, personal finance, and lifestyle. Personal finance advice, tools, and investing tips provided by Forbes and affiliated publications.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">news.yahoo.com</DataUrl>
+							<Title>Yahoo News</Title>
+							<PopularityRank>179</PopularityRank>
+							<Description>Daily news and full coverage of current issues.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">timesofindia.indiatimes.com</DataUrl>
+							<Title>The Times of India</Title>
+							<PopularityRank>205</PopularityRank>
+							<Description>Indian national daily, political,entertainment and business news.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.foxnews.com</DataUrl>
+							<Title>FoxNews.com</Title>
+							<PopularityRank>206</PopularityRank>
+							<Description>Breaking News, Latest News and Current News from FoxNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.cnbc.com</DataUrl>
+							<Title>CNBC</Title>
+							<PopularityRank>220</PopularityRank>
+							<Description>Headline news, articles, reports, stocks and quotes, message boards, and a stock ticker.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">economictimes.indiatimes.com</DataUrl>
+							<Title>The Economic Times</Title>
+							<PopularityRank>221</PopularityRank>
+							<Description>Provides data and analysis on industry and economy.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weather.com</DataUrl>
+							<Title>Weather.com</Title>
+							<PopularityRank>240</PopularityRank>
+							<Description>Offers forecasts for cities worldwide as well as radar and satellite maps. Also includes news stories and allergy information.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bloomberg.com</DataUrl>
+							<Title>Bloomberg.com</Title>
+							<PopularityRank>296</PopularityRank>
+							<Description>Breaking financial, business and economic news worldwide from major provider of information services.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.chinadaily.com.cn</DataUrl>
+							<Title>China Daily</Title>
+							<PopularityRank>307</PopularityRank>
+							<Description>Daily English-language news about China.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wsj.com</DataUrl>
+							<Title>Wall Street Journal</Title>
+							<PopularityRank>339</PopularityRank>
+							<Description>Public pages of well known subscription firm covering world market news and data.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.reuters.com</DataUrl>
+							<Title>Reuters</Title>
+							<PopularityRank>343</PopularityRank>
+							<Description>Breaking news, business, financial and investing articles from around the globe. Also provides technology solutions.</Description>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.usatoday.com</DataUrl>
+							<Title>USA Today</Title>
+							<PopularityRank>355</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">indianexpress.com</DataUrl>
+							<Title>The Indian Express</Title>
+							<PopularityRank>376</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.hindustantimes.com</DataUrl>
+							<Title>HindustanTimes.com</Title>
+							<PopularityRank>383</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nypost.com</DataUrl>
+							<Title>New York Post Online Edition</Title>
+							<PopularityRank>411</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.accuweather.com</DataUrl>
+							<Title>AccuWeather</Title>
+							<PopularityRank>430</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nbcnews.com</DataUrl>
+							<Title>NBC News</Title>
+							<PopularityRank>437</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.chron.com</DataUrl>
+							<Title>Houston Chronicle</Title>
+							<PopularityRank>455</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dw.com</DataUrl>
+							<Title>Deutsche Welle</Title>
+							<PopularityRank>467</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thehindu.com</DataUrl>
+							<Title>The Hindu</Title>
+							<PopularityRank>495</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.usnews.com</DataUrl>
+							<Title>U.S. News &amp; World Report</Title>
+							<PopularityRank>537</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.livemint.com</DataUrl>
+							<Title>Mint</Title>
+							<PopularityRank>607</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.drudgereport.com</DataUrl>
+							<Title>The Drudge Report</Title>
+							<PopularityRank>623</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news.com.au</DataUrl>
+							<Title>News.com.au</Title>
+							<PopularityRank>649</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">abcnews.go.com</DataUrl>
+							<Title>ABCNews.com</Title>
+							<PopularityRank>654</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">cbsnews.com</DataUrl>
+							<Title>CBS News</Title>
+							<PopularityRank>663</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sfgate.com</DataUrl>
+							<Title>San Francisco Chronicle</Title>
+							<PopularityRank>691</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.time.com</DataUrl>
+							<Title>Time Magazine</Title>
+							<PopularityRank>700</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theatlantic.com</DataUrl>
+							<Title>Atlantic Online</Title>
+							<PopularityRank>738</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">thehill.com</DataUrl>
+							<Title>The Hill</Title>
+							<PopularityRank>783</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wunderground.com</DataUrl>
+							<Title>Weather Underground</Title>
+							<PopularityRank>796</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weather.gov</DataUrl>
+							<Title>National Weather Service</Title>
+							<PopularityRank>818</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.irna.ir</DataUrl>
+							<Title>ایرنا</Title>
+							<PopularityRank>825</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.alarabiya.net</DataUrl>
+							<Title>Al Arabiya News Channel</Title>
+							<PopularityRank>849</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nationalgeographic.com</DataUrl>
+							<Title>National Geographic</Title>
+							<PopularityRank>863</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.latimes.com</DataUrl>
+							<Title>Los Angeles Times</Title>
+							<PopularityRank>936</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thedailybeast.com</DataUrl>
+							<Title>The Daily Beast</Title>
+							<PopularityRank>969</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">theconversation.com</DataUrl>
+							<Title>The Conversation</Title>
+							<PopularityRank>989</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mathrubhumi.com</DataUrl>
+							<Title>Mathrubhumi Daily</Title>
+							<PopularityRank>1019</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.euronews.com</DataUrl>
+							<Title>Euronews</Title>
+							<PopularityRank>1046</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.patch.com</DataUrl>
+							<Title>Patch.com</Title>
+							<PopularityRank>1082</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.yr.no</DataUrl>
+							<Title>Yr.no</Title>
+							<PopularityRank>1099</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ctvnews.ca</DataUrl>
+							<Title>CTV News</Title>
+							<PopularityRank>1106</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.aljazeera.com</DataUrl>
+							<Title>Al Jazeera English</Title>
+							<PopularityRank>1107</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.variety.com</DataUrl>
+							<Title>Variety.com</Title>
+							<PopularityRank>1132</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.financialexpress.com</DataUrl>
+							<Title>Financial Express</Title>
+							<PopularityRank>1137</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsweek.com</DataUrl>
+							<Title>Newsweek</Title>
+							<PopularityRank>1147</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.smh.com.au</DataUrl>
+							<Title>The Sun-Herald</Title>
+							<PopularityRank>1159</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.france24.com</DataUrl>
+							<Title>France 24</Title>
+							<PopularityRank>1204</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">chicagotribune.com</DataUrl>
+							<Title>Chicago Tribune</Title>
+							<PopularityRank>1236</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">money.cnn.com</DataUrl>
+							<Title>CNN Money</Title>
+							<PopularityRank>1290</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bankrate.com</DataUrl>
+							<Title>Bankrate.com</Title>
+							<PopularityRank>1311</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.hollywoodreporter.com</DataUrl>
+							<Title>The Hollywood Reporter</Title>
+							<PopularityRank>1312</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.business-standard.com</DataUrl>
+							<Title>Business Standard</Title>
+							<PopularityRank>1373</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.economist.com</DataUrl>
+							<Title>The Economist</Title>
+							<PopularityRank>1384</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.voanews.com</DataUrl>
+							<Title>Voice of America</Title>
+							<PopularityRank>1544</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">newindianexpress.com</DataUrl>
+							<Title>Latest India News Breaking News World &amp; Business News Sports &amp; Entertainment news – New Indian Express</Title>
+							<PopularityRank>1600</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsnow.co.uk</DataUrl>
+							<Title>NewsNow</Title>
+							<PopularityRank>1621</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bdnews24.com</DataUrl>
+							<Title>bdnews24.com</Title>
+							<PopularityRank>1742</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.zougla.gr</DataUrl>
+							<Title>Zougla.gr</Title>
+							<PopularityRank>1803</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.foxbusiness.com</DataUrl>
+							<Title>FOXBusiness Network</Title>
+							<PopularityRank>1957</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.startribune.com</DataUrl>
+							<Title>Star Tribune</Title>
+							<PopularityRank>2017</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">my.yahoo.com</DataUrl>
+							<Title>My Yahoo</Title>
+							<PopularityRank>2072</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">fortune.com</DataUrl>
+							<Title>Fortune.com</Title>
+							<PopularityRank>2079</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nj.com</DataUrl>
+							<Title>New Jersey Online</Title>
+							<PopularityRank>2080</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thehindubusinessline.com</DataUrl>
+							<Title>The Hindu Business Line</Title>
+							<PopularityRank>2124</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tribuneindia.com</DataUrl>
+							<Title>The Tribune</Title>
+							<PopularityRank>2155</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theglobeandmail.com</DataUrl>
+							<Title>The Globe and Mail</Title>
+							<PopularityRank>2178</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.prnewswire.com</DataUrl>
+							<Title>PR Newswire</Title>
+							<PopularityRank>2266</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.azcentral.com</DataUrl>
+							<Title>The Arizona Republic</Title>
+							<PopularityRank>2412</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mercurynews.com</DataUrl>
+							<Title>San Jose Mercury News</Title>
+							<PopularityRank>2478</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.seattletimes.com</DataUrl>
+							<Title>The Seattle Times</Title>
+							<PopularityRank>2510</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.deccanherald.com</DataUrl>
+							<Title>Deccan Herald</Title>
+							<PopularityRank>2538</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsmax.com</DataUrl>
+							<Title>NewsMax</Title>
+							<PopularityRank>2612</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thetimes.co.uk</DataUrl>
+							<Title>The Times</Title>
+							<PopularityRank>2776</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ap.org</DataUrl>
+							<Title>The Associated Press</Title>
+							<PopularityRank>2925</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rd.com</DataUrl>
+							<Title>Reader's Digest</Title>
+							<PopularityRank>2936</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thenews.com.pk</DataUrl>
+							<Title>The News International</Title>
+							<PopularityRank>2976</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.adweek.com</DataUrl>
+							<Title>Adweek Online</Title>
+							<PopularityRank>3080</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.deccanchronicle.com</DataUrl>
+							<Title>Deccan Chronicle</Title>
+							<PopularityRank>3088</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ajc.com</DataUrl>
+							<Title>The Atlanta Journal-Constitution</Title>
+							<PopularityRank>3097</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.parade.com</DataUrl>
+							<Title>Parade Magazine</Title>
+							<PopularityRank>3106</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">mumbaimirror.indiatimes.com</DataUrl>
+							<Title>Mumbai Mirror</Title>
+							<PopularityRank>3214</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theepochtimes.com</DataUrl>
+							<Title>Epoch Times</Title>
+							<PopularityRank>3345</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newspapers.com</DataUrl>
+							<Title>Newspapers.com</Title>
+							<PopularityRank>3357</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.oregonlive.com</DataUrl>
+							<Title>The Oregonian</Title>
+							<PopularityRank>3378</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">dowjones.com</DataUrl>
+							<Title>Dow Jones</Title>
+							<PopularityRank>3413</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sfchronicle.com</DataUrl>
+							<Title>San Francisco Chronicle</Title>
+							<PopularityRank>3422</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">afr.com</DataUrl>
+							<Title>Financial Review</Title>
+							<PopularityRank>3451</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bostonglobe.com</DataUrl>
+							<Title>The Boston Globe</Title>
+							<PopularityRank>3461</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestar.com</DataUrl>
+							<Title>The Toronto Star</Title>
+							<PopularityRank>3470</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.washingtontimes.com</DataUrl>
+							<Title>Washington Times</Title>
+							<PopularityRank>3488</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">theweek.com</DataUrl>
+							<Title>The Week Magazine</Title>
+							<PopularityRank>3520</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.fark.com</DataUrl>
+							<Title>Fark.com</Title>
+							<PopularityRank>3633</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">theonion.com</DataUrl>
+							<Title>The Onion</Title>
+							<PopularityRank>3672</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.stltoday.com</DataUrl>
+							<Title>St Louis Post Dispatch</Title>
+							<PopularityRank>3739</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.washingtonexaminer.com</DataUrl>
+							<Title>The Examiner</Title>
+							<PopularityRank>3806</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rappler.com</DataUrl>
+							<Title>RAPPLER - Philippine News Multimedia Citizen Journalism Social Media</Title>
+							<PopularityRank>3883</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.prweb.com</DataUrl>
+							<Title>PRWeb</Title>
+							<PopularityRank>3901</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tampabay.com</DataUrl>
+							<Title>Tampa Bay Times Online</Title>
+							<PopularityRank>3936</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.freep.com</DataUrl>
+							<Title>Detroit Free Press</Title>
+							<PopularityRank>3947</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nationalpost.com</DataUrl>
+							<Title>National Post</Title>
+							<PopularityRank>3977</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lexisnexis.com</DataUrl>
+							<Title>LEXIS-NEXIS</Title>
+							<PopularityRank>3998</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">dailycaller.com</DataUrl>
+							<Title>The Daily Caller</Title>
+							<PopularityRank>4071</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.miamiherald.com</DataUrl>
+							<Title>The Miami Herald</Title>
+							<PopularityRank>4147</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.afp.com</DataUrl>
+							<Title>Agence France-Presse</Title>
+							<PopularityRank>4165</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dallasnews.com</DataUrl>
+							<Title>The Dallas Morning News</Title>
+							<PopularityRank>4214</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ocregister.com</DataUrl>
+							<Title>Orange County Register</Title>
+							<PopularityRank>4288</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theaustralian.com.au</DataUrl>
+							<Title>The Australian</Title>
+							<PopularityRank>4310</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dnaindia.com</DataUrl>
+							<Title>DNA - Daily News and Analysis</Title>
+							<PopularityRank>4330</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theroot.com</DataUrl>
+							<Title>The Root</Title>
+							<PopularityRank>4579</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.huffingtonpost.com</DataUrl>
+							<Title>The Huffington Post</Title>
+							<PopularityRank>4581</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.deseret.com</DataUrl>
+							<Title>deseret.com</Title>
+							<PopularityRank>4598</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thedrum.com</DataUrl>
+							<Title>The Drum</Title>
+							<PopularityRank>4645</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.denverpost.com</DataUrl>
+							<Title>The Denver Post</Title>
+							<PopularityRank>4668</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.cision.com</DataUrl>
+							<Title>Cision</Title>
+							<PopularityRank>4717</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.detroitnews.com</DataUrl>
+							<Title>Detroit News</Title>
+							<PopularityRank>4769</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.telegraphindia.com</DataUrl>
+							<Title>The Telegraph</Title>
+							<PopularityRank>4797</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.al.com</DataUrl>
+							<Title>AL.com</Title>
+							<PopularityRank>4852</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsday.com</DataUrl>
+							<Title>Newsday</Title>
+							<PopularityRank>4879</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">freepressjournal.in</DataUrl>
+							<Title>The Freepress Journal</Title>
+							<PopularityRank>4915</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">losangeles.cbslocal.com</DataUrl>
+							<Title>KNX 1070 Newsradio</Title>
+							<PopularityRank>4936</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thebetterindia.com</DataUrl>
+							<Title>The Better India</Title>
+							<PopularityRank>4961</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mediapost.com</DataUrl>
+							<Title>MediaPost</Title>
+							<PopularityRank>4967</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">bangaloremirror.indiatimes.com</DataUrl>
+							<Title>Bangalore Mirror</Title>
+							<PopularityRank>5123</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.baltimoresun.com</DataUrl>
+							<Title>The Baltimore Sun</Title>
+							<PopularityRank>5135</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.metafilter.com</DataUrl>
+							<Title>Metafilter</Title>
+							<PopularityRank>5145</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sacbee.com</DataUrl>
+							<Title>Sacramento Bee</Title>
+							<PopularityRank>5294</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mid-day.com</DataUrl>
+							<Title>Entertaining News Break from Mid Day</Title>
+							<PopularityRank>5296</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newswire.com</DataUrl>
+							<Title>Newswire LLC</Title>
+							<PopularityRank>5398</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">uk.reuters.com</DataUrl>
+							<Title>Reuters News UK</Title>
+							<PopularityRank>5477</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.blastingnews.com</DataUrl>
+							<Title>Blasting News</Title>
+							<PopularityRank>5481</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.metoffice.gov.uk</DataUrl>
+							<Title>Met Office</Title>
+							<PopularityRank>5517</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.topix.com</DataUrl>
+							<Title>Topix</Title>
+							<PopularityRank>5518</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">radar.weather.gov</DataUrl>
+							<Title>National Weather Service Doppler Radars</Title>
+							<PopularityRank>5578</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.omaha.com</DataUrl>
+							<Title>Omaha World-Herald - Omaha.com</Title>
+							<PopularityRank>5583</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sandiegouniontribune.com</DataUrl>
+							<Title>San Diego Union Tribune</Title>
+							<PopularityRank>5617</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.suntimes.com</DataUrl>
+							<Title>Chicago Sun-Times</Title>
+							<PopularityRank>5668</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.federalreserve.gov</DataUrl>
+							<Title>Board of Governors of the Federal Reserve System</Title>
+							<PopularityRank>5719</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sltrib.com</DataUrl>
+							<Title>The Salt Lake Tribune</Title>
+							<PopularityRank>5747</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.upi.com</DataUrl>
+							<Title>United Press International</Title>
+							<PopularityRank>5755</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.reviewjournal.com</DataUrl>
+							<Title>Las Vegas Review-Journal</Title>
+							<PopularityRank>5802</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.observer.com</DataUrl>
+							<Title>The New York Observer</Title>
+							<PopularityRank>5834</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestatesman.com</DataUrl>
+							<Title>The Statesman</Title>
+							<PopularityRank>5907</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.fcc.gov</DataUrl>
+							<Title>Federal Communications Commission</Title>
+							<PopularityRank>6100</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.siasat.com</DataUrl>
+							<Title>The Siasat Daily</Title>
+							<PopularityRank>6118</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sun-sentinel.com</DataUrl>
+							<Title>Sun-Sentinel.com</Title>
+							<PopularityRank>6236</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.commondreams.org</DataUrl>
+							<Title>Common Dreams NewsCenter</Title>
+							<PopularityRank>6266</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.law.com</DataUrl>
+							<Title>Law.com</Title>
+							<PopularityRank>6387</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.syracuse.com</DataUrl>
+							<Title>Syracuse.com</Title>
+							<PopularityRank>6462</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">wtop.com</DataUrl>
+							<Title>WTOP -Top News, Nonstop.</Title>
+							<PopularityRank>6477</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.factcheck.org</DataUrl>
+							<Title>FactCheck.org - Annenberg Political Fact Check</Title>
+							<PopularityRank>6709</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.smartbrief.com</DataUrl>
+							<Title>Smart Brief</Title>
+							<PopularityRank>6870</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.c-span.org</DataUrl>
+							<Title>C-SPAN</Title>
+							<PopularityRank>6883</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.voat.co</DataUrl>
+							<Title>Voat</Title>
+							<PopularityRank>6887</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nola.com</DataUrl>
+							<Title>The Times-Picayune</Title>
+							<PopularityRank>6936</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.foreca.com</DataUrl>
+							<Title>Foreca Weather</Title>
+							<PopularityRank>7003</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsobserver.com</DataUrl>
+							<Title>The News &amp; Observer</Title>
+							<PopularityRank>7023</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.orlandosentinel.com</DataUrl>
+							<Title>Orlando Sentinel</Title>
+							<PopularityRank>7033</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.heraldsun.com.au</DataUrl>
+							<Title>Herald Sun</Title>
+							<PopularityRank>7065</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newstracklive.com</DataUrl>
+							<Title>News Track Live</Title>
+							<PopularityRank>7256</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.globaltimes.cn</DataUrl>
+							<Title>Global Times</Title>
+							<PopularityRank>7285</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.jsonline.com</DataUrl>
+							<Title>Milwaukee Journal Sentinel</Title>
+							<PopularityRank>7414</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailytelegraph.com.au</DataUrl>
+							<Title>The Daily Telegraph</Title>
+							<PopularityRank>7500</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.richmond.com</DataUrl>
+							<Title>Richmond.com</Title>
+							<PopularityRank>7576</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.indystar.com</DataUrl>
+							<Title>The Indianapolis Star</Title>
+							<PopularityRank>7621</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.kansascity.com</DataUrl>
+							<Title>Kansas City Star: Breaking News</Title>
+							<PopularityRank>7719</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weatherbug.com</DataUrl>
+							<Title>WeatherBug</Title>
+							<PopularityRank>7877</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.courant.com</DataUrl>
+							<Title>The Hartford Courant</Title>
+							<PopularityRank>8070</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.csmonitor.com</DataUrl>
+							<Title>Christian Science Monitor</Title>
+							<PopularityRank>8101</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nyse.com</DataUrl>
+							<Title>New York Stock Exchange</Title>
+							<PopularityRank>8125</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.twincities.com</DataUrl>
+							<Title>Pioneer Press</Title>
+							<PopularityRank>8174</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.goodnewsnetwork.org</DataUrl>
+							<Title>Good News Network</Title>
+							<PopularityRank>8219</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailynews.com</DataUrl>
+							<Title>Daily News</Title>
+							<PopularityRank>8354</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.buffalonews.com</DataUrl>
+							<Title>Buffalo News</Title>
+							<PopularityRank>8378</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.seattlepi.com</DataUrl>
+							<Title>Seattle Post-Intelligencer</Title>
+							<PopularityRank>8429</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sentinelassam.com</DataUrl>
+							<Title>The Sentinel</Title>
+							<PopularityRank>8499</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.inquisitr.com</DataUrl>
+							<Title>Inquisitr - News Worth Sharing</Title>
+							<PopularityRank>8622</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">beforeitsnews.com</DataUrl>
+							<Title>Before It's News</Title>
+							<PopularityRank>8711</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.statesman.com</DataUrl>
+							<Title>Statesman.com</Title>
+							<PopularityRank>8770</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.palmbeachpost.com</DataUrl>
+							<Title>The Palm Beach Post</Title>
+							<PopularityRank>8875</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.copyright.gov</DataUrl>
+							<Title>U.S. Copyright Office Home Page</Title>
+							<PopularityRank>8937</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.vancouversun.com</DataUrl>
+							<Title>Vancouver Sun</Title>
+							<PopularityRank>8949</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newrepublic.com</DataUrl>
+							<Title>The New Republic</Title>
+							<PopularityRank>9010</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.poynter.org</DataUrl>
+							<Title>The Poynter Institute</Title>
+							<PopularityRank>9061</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wn.com</DataUrl>
+							<Title>World News Network</Title>
+							<PopularityRank>9235</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newswire.ca</DataUrl>
+							<Title>CNW Group</Title>
+							<PopularityRank>9275</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.star-telegram.com</DataUrl>
+							<Title>Fort Worth Star-Telegram</Title>
+							<PopularityRank>9430</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bostonherald.com</DataUrl>
+							<Title>Boston Herald</Title>
+							<PopularityRank>9496</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">militarytimes.com</DataUrl>
+							<Title>Military Times</Title>
+							<PopularityRank>9700</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailyherald.com</DataUrl>
+							<Title>Daily Herald</Title>
+							<PopularityRank>9827</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">triblive.com</DataUrl>
+							<Title>Pittsburgh Tribune-Review</Title>
+							<PopularityRank>9925</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.staradvertiser.com</DataUrl>
+							<Title>Honolulu Star-Advertiser</Title>
+							<PopularityRank>9966</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rferl.org</DataUrl>
+							<Title>Radio Free Europe/Radio Liberty</Title>
+							<PopularityRank>10035</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.uschamber.com</DataUrl>
+							<Title>The U.S. Chamber of Commerce</Title>
+							<PopularityRank>10050</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mysanantonio.com</DataUrl>
+							<Title>San Antonio Express-News</Title>
+							<PopularityRank>10111</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.macleans.ca</DataUrl>
+							<Title>Macleans</Title>
+							<PopularityRank>10161</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.postandcourier.com</DataUrl>
+							<Title>The Post and Courier</Title>
+							<PopularityRank>10259</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.montrealgazette.com</DataUrl>
+							<Title>The Montreal Gazette</Title>
+							<PopularityRank>10289</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.stripes.com</DataUrl>
+							<Title>Stars and Stripes</Title>
+							<PopularityRank>10320</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.northjersey.com</DataUrl>
+							<Title>NorthJersey.Com</Title>
+							<PopularityRank>10742</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tennessean.com</DataUrl>
+							<Title>Nashville Tennessean Online</Title>
+							<PopularityRank>10817</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.alternet.org</DataUrl>
+							<Title>AlterNet.org</Title>
+							<PopularityRank>11071</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.couriermail.com.au</DataUrl>
+							<Title>The Courier-Mail</Title>
+							<PopularityRank>11077</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.democratandchronicle.com</DataUrl>
+							<Title>Democrat and Chronicle</Title>
+							<PopularityRank>11086</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">lasvegassun.com</DataUrl>
+							<Title>Las Vegas SUN</Title>
+							<PopularityRank>11265</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.westword.com</DataUrl>
+							<Title>Denver Westword</Title>
+							<PopularityRank>11342</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.timesunion.com</DataUrl>
+							<Title>Times Union</Title>
+							<PopularityRank>11388</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.telegram.com</DataUrl>
+							<Title>Worcester Telegram &amp; Gazette</Title>
+							<PopularityRank>11426</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.canberratimes.com.au</DataUrl>
+							<Title>The Canberra Times</Title>
+							<PopularityRank>11592</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">punemirror.indiatimes.com</DataUrl>
+							<Title>Pune Mirror</Title>
+							<PopularityRank>11593</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.frontpagemag.com</DataUrl>
+							<Title>FrontPage Magazine</Title>
+							<PopularityRank>12166</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.calgaryherald.com</DataUrl>
+							<Title>Calgary Herald</Title>
+							<PopularityRank>12241</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.citypages.com</DataUrl>
+							<Title>City Pages</Title>
+							<PopularityRank>12433</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.journalstar.com</DataUrl>
+							<Title>Lincoln Journal Star Newspaper - Online Edition</Title>
+							<PopularityRank>12542</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pe.com</DataUrl>
+							<Title>The Press Enterprise</Title>
+							<PopularityRank>12573</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.adelaidenow.com.au</DataUrl>
+							<Title>Adelaide Now</Title>
+							<PopularityRank>12650</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.einpresswire.com</DataUrl>
+							<Title>EIN Presswire</Title>
+							<PopularityRank>12680</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">theadvocate.com</DataUrl>
+							<Title>The Advocate (Baton Rouge)</Title>
+							<PopularityRank>12681</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wfp.org</DataUrl>
+							<Title>United Nations World Food Programme</Title>
+							<PopularityRank>12714</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sanluisobispo.com</DataUrl>
+							<Title>The Tribune</Title>
+							<PopularityRank>12954</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.project-syndicate.org</DataUrl>
+							<Title>Project Syndicate</Title>
+							<PopularityRank>13033</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.adn.com</DataUrl>
+							<Title>Alaska Dispatch News</Title>
+							<PopularityRank>13182</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mcall.com</DataUrl>
+							<Title>The Morning Call</Title>
+							<PopularityRank>13201</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.desmoinesregister.com</DataUrl>
+							<Title>Des Moines Register</Title>
+							<PopularityRank>13210</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">tucson.com</DataUrl>
+							<Title>Arizona Daily Star</Title>
+							<PopularityRank>13342</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.assamtribune.com</DataUrl>
+							<Title>The Assam Tribune</Title>
+							<PopularityRank>13418</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">ahmedabadmirror.indiatimes.com</DataUrl>
+							<Title>Ahmedabad Mirror</Title>
+							<PopularityRank>13736</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sandiegoreader.com</DataUrl>
+							<Title>San Diego Reader</Title>
+							<PopularityRank>13880</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailypioneer.com</DataUrl>
+							<Title>The Pioneer</Title>
+							<PopularityRank>13923</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rgj.com</DataUrl>
+							<Title>The Reno Gazette-Journal</Title>
+							<PopularityRank>13995</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.stamfordadvocate.com</DataUrl>
+							<Title>The Stamford Advocate</Title>
+							<PopularityRank>14028</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.floridatoday.com</DataUrl>
+							<Title>Florida Today</Title>
+							<PopularityRank>14033</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.roanoke.com</DataUrl>
+							<Title>The Roanoke Times</Title>
+							<PopularityRank>14247</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rollcall.com</DataUrl>
+							<Title>Roll Call</Title>
+							<PopularityRank>14255</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.allyoucanread.com</DataUrl>
+							<Title>AllYouCanRead.com</Title>
+							<PopularityRank>14401</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rasmussenreports.com</DataUrl>
+							<Title>Rasmussen Reports</Title>
+							<PopularityRank>14755</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weather2umbrella.com</DataUrl>
+							<Title>Weather2Umbrella - Free Weather Forecast</Title>
+							<PopularityRank>14763</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ctpost.com</DataUrl>
+							<Title>Connecticut Post</Title>
+							<PopularityRank>14791</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.eastbaytimes.com</DataUrl>
+							<Title>East Bay Times</Title>
+							<PopularityRank>14800</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.opendemocracy.net</DataUrl>
+							<Title>OpenDemocracy</Title>
+							<PopularityRank>14859</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">thewest.com.au</DataUrl>
+							<Title>The West Australian</Title>
+							<PopularityRank>14921</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pressofatlanticcity.com</DataUrl>
+							<Title>Press of Atlantic City</Title>
+							<PopularityRank>14922</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.agoracosmopolitan.com</DataUrl>
+							<Title>The Canadian National Newspaper</Title>
+							<PopularityRank>14944</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mediabistro.com</DataUrl>
+							<Title>Media Bistro</Title>
+							<PopularityRank>14989</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.niemanlab.org</DataUrl>
+							<Title>Nieman Journalism Lab</Title>
+							<PopularityRank>15055</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thehour.com</DataUrl>
+							<Title>The Hour</Title>
+							<PopularityRank>15082</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.criticalmention.com</DataUrl>
+							<Title>Critical Mention</Title>
+							<PopularityRank>15089</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bccourier.com</DataUrl>
+							<Title>Bandera County Courier</Title>
+							<PopularityRank>15403</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.desertsun.com</DataUrl>
+							<Title>The Desert Sun</Title>
+							<PopularityRank>15441</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.timesfreepress.com</DataUrl>
+							<Title>Chattanooga Times Free Press</Title>
+							<PopularityRank>15553</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.governing.com</DataUrl>
+							<Title>Governing Magazine: State and local government news for America's leaders</Title>
+							<PopularityRank>15626</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tveyes.com</DataUrl>
+							<Title>TVEyes</Title>
+							<PopularityRank>15700</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.einnews.com</DataUrl>
+							<Title>EIN News</Title>
+							<PopularityRank>15864</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">jacksonville.com</DataUrl>
+							<Title>Florida Times-Union</Title>
+							<PopularityRank>16097</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lohud.com</DataUrl>
+							<Title>The Journal News</Title>
+							<PopularityRank>16181</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">15minutenews.com</DataUrl>
+							<Title>15 Minute News</Title>
+							<PopularityRank>16199</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">globalvoices.org</DataUrl>
+							<Title>Global Voices</Title>
+							<PopularityRank>16312</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pilotonline.com</DataUrl>
+							<Title>The Virginian-Pilot</Title>
+							<PopularityRank>16344</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.24-7pressrelease.com</DataUrl>
+							<Title>24-7 Press Release Newswire</Title>
+							<PopularityRank>16398</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">mediamatters.org</DataUrl>
+							<Title>Media Matters for America</Title>
+							<PopularityRank>16493</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestate.com</DataUrl>
+							<Title>The State</Title>
+							<PopularityRank>16499</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thecrimson.com</DataUrl>
+							<Title>The Harvard Crimson</Title>
+							<PopularityRank>16671</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.heraldextra.com</DataUrl>
+							<Title>The Daily Herald</Title>
+							<PopularityRank>16705</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestranger.com</DataUrl>
+							<Title>The Stranger</Title>
+							<PopularityRank>16721</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.spokesman.com</DataUrl>
+							<Title>The Spokesman-Review</Title>
+							<PopularityRank>16761</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.demotix.com</DataUrl>
+							<Title>Demotix</Title>
+							<PopularityRank>16914</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">asianage.com</DataUrl>
+							<Title>The Asian Age</Title>
+							<PopularityRank>16919</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">wickedlocal.com</DataUrl>
+							<Title>WickedLocal</Title>
+							<PopularityRank>17016</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.idahostatesman.com</DataUrl>
+							<Title>Idaho Statesman</Title>
+							<PopularityRank>17037</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.greenwichtime.com</DataUrl>
+							<Title>Greenwich Time</Title>
+							<PopularityRank>17063</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tallahassee.com</DataUrl>
+							<Title>Tallahassee Democrat</Title>
+							<PopularityRank>17149</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theeagle.com</DataUrl>
+							<Title>Bryan-College Station Eagle</Title>
+							<PopularityRank>17222</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pollen.com</DataUrl>
+							<Title>Personal Allergy Forecast</Title>
+							<PopularityRank>17375</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.greensboro.com</DataUrl>
+							<Title>News &amp; Record Online</Title>
+							<PopularityRank>17472</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.duluthnewstribune.com</DataUrl>
+							<Title>Duluth News Tribune</Title>
+							<PopularityRank>17588</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.crainsnewyork.com</DataUrl>
+							<Title>Crains New York Business</Title>
+							<PopularityRank>17601</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.orlandoweekly.com</DataUrl>
+							<Title>Orlando Weekly</Title>
+							<PopularityRank>17602</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailybreeze.com</DataUrl>
+							<Title>Daily Breeze</Title>
+							<PopularityRank>17609</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.arkansasonline.com</DataUrl>
+							<Title>Arkansas Online</Title>
+							<PopularityRank>17848</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.providencejournal.com</DataUrl>
+							<Title>Providence Journal</Title>
+							<PopularityRank>17879</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lucianne.com</DataUrl>
+							<Title>Goldberg, Lucianne</Title>
+							<PopularityRank>17884</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lancasteronline.com</DataUrl>
+							<Title>Lancaster Online</Title>
+							<PopularityRank>18057</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.straight.com</DataUrl>
+							<Title>The Georgia Straight</Title>
+							<PopularityRank>18086</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.filmsforaction.org</DataUrl>
+							<Title>Films for Action</Title>
+							<PopularityRank>18195</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.edmontonjournal.com</DataUrl>
+							<Title>Edmonton Journal</Title>
+							<PopularityRank>18247</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.cjr.org</DataUrl>
+							<Title>Columbia Journalism Review</Title>
+							<PopularityRank>18273</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.delawareonline.com</DataUrl>
+							<Title>Delawareonline.com</Title>
+							<PopularityRank>18469</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailyexcelsior.com</DataUrl>
+							<Title>DailyExcelsior.com</Title>
+							<PopularityRank>18686</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mcclatchydc.com</DataUrl>
+							<Title>McClatchy Washington Bureau</Title>
+							<PopularityRank>18777</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.napavalleyregister.com</DataUrl>
+							<Title>Napa Valley Register, The</Title>
+							<PopularityRank>18849</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.winnipegfreepress.com</DataUrl>
+							<Title>Winnipeg Free Press</Title>
+							<PopularityRank>18981</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thechronicleherald.ca</DataUrl>
+							<Title>The Chronicle-Herald</Title>
+							<PopularityRank>18987</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theguardian.pe.ca</DataUrl>
+							<Title>The Guardian</Title>
+							<PopularityRank>19063</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nwitimes.com</DataUrl>
+							<Title>Northwest Indiana Times</Title>
+							<PopularityRank>19138</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.good.is</DataUrl>
+							<Title>Good Magazine</Title>
+							<PopularityRank>19213</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">crweworld.com</DataUrl>
+							<Title>CRWE World</Title>
+							<PopularityRank>19289</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thenewstribune.com</DataUrl>
+							<Title>Tacoma News Tribune</Title>
+							<PopularityRank>19390</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.heraldtribune.com</DataUrl>
+							<Title>Sarasota Herald-Tribune</Title>
+							<PopularityRank>19416</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.phoenixnewtimes.com</DataUrl>
+							<Title>Phoenix New Times</Title>
+							<PopularityRank>19503</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theprovince.com</DataUrl>
+							<Title>Vancouver Province</Title>
+							<PopularityRank>19609</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">sunnyskyz.com</DataUrl>
+							<Title>Sunny Skyz: Feel good news, stories, pictures, and videos</Title>
+							<PopularityRank>20048</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.abqjournal.com</DataUrl>
+							<Title>Albuquerque Journal - ABQJournal</Title>
+							<PopularityRank>20118</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weather-forecast.com</DataUrl>
+							<Title>Weather-Forecast.com</Title>
+							<PopularityRank>20217</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.briefing.com</DataUrl>
+							<Title>Briefing.com</Title>
+							<PopularityRank>20380</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">billoreilly.com</DataUrl>
+							<Title>Bill O'Reilly</Title>
+							<PopularityRank>20390</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.riverfronttimes.com</DataUrl>
+							<Title>Riverfront Times</Title>
+							<PopularityRank>20528</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.fresnobee.com</DataUrl>
+							<Title>Fresno Bee</Title>
+							<PopularityRank>20706</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pickyournewspaper.com</DataUrl>
+							<Title>&amp;gt;Newspapers :World Newspapers listed by each country</Title>
+							<PopularityRank>20727</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">syndication.theguardian.com</DataUrl>
+							<Title>Guardian Syndication</Title>
+							<PopularityRank>20743</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">chroniclingamerica.loc.gov</DataUrl>
+							<Title>Chronicling America - Library of Congress</Title>
+							<PopularityRank>21072</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gazette.com</DataUrl>
+							<Title>Colorado Springs Gazette</Title>
+							<PopularityRank>21174</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.austinchronicle.com</DataUrl>
+							<Title>The Austin Chronicle</Title>
+							<PopularityRank>21193</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.masternewmedia.org</DataUrl>
+							<Title>Master New Media</Title>
+							<PopularityRank>21221</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.people-press.org</DataUrl>
+							<Title>The Pew Research Center for the People &amp; the Press</Title>
+							<PopularityRank>21226</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.spiked-online.com</DataUrl>
+							<Title>Spiked Online</Title>
+							<PopularityRank>21246</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rsf.org</DataUrl>
+							<Title>Reporters Without Borders</Title>
+							<PopularityRank>21428</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.kitv.com</DataUrl>
+							<Title>KITV4 Island News</Title>
+							<PopularityRank>21434</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">news.berkeley.edu</DataUrl>
+							<Title>University of California Berkeley News</Title>
+							<PopularityRank>21508</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.clarionledger.com</DataUrl>
+							<Title>The Clarion-Ledger</Title>
+							<PopularityRank>21540</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pantagraph.com</DataUrl>
+							<Title>The Pantagraph newspaper</Title>
+							<PopularityRank>21645</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news-leader.com</DataUrl>
+							<Title>Springfield News-Leader, The</Title>
+							<PopularityRank>21670</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.chaser.com.au</DataUrl>
+							<Title>The Chaser</Title>
+							<PopularityRank>21721</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.unionleader.com</DataUrl>
+							<Title>New Hampshire Union Leader</Title>
+							<PopularityRank>21756</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dallasobserver.com</DataUrl>
+							<Title>Dallas Observer</Title>
+							<PopularityRank>21816</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lehighvalleylive.com</DataUrl>
+							<Title>The Express-Times</Title>
+							<PopularityRank>21965</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.greaterkashmir.com</DataUrl>
+							<Title>Greater Kashmir</Title>
+							<PopularityRank>21971</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.knoxnews.com</DataUrl>
+							<Title>Knoxville News Sentinel</Title>
+							<PopularityRank>22005</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bellinghamherald.com</DataUrl>
+							<Title>The Bellingham Herald</Title>
+							<PopularityRank>22075</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.jewishworldreview.com</DataUrl>
+							<Title>Jewish World Review</Title>
+							<PopularityRank>22087</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sfexaminer.com</DataUrl>
+							<Title>The San Francisco Examiner</Title>
+							<PopularityRank>22223</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.indexjournal.com</DataUrl>
+							<Title>Index-Journal</Title>
+							<PopularityRank>22414</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.timescolonist.com</DataUrl>
+							<Title>Times Colonist</Title>
+							<PopularityRank>22457</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.qctimes.com</DataUrl>
+							<Title>Quad City Times</Title>
+							<PopularityRank>22512</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.presstelegram.com</DataUrl>
+							<Title>Press-Telegram</Title>
+							<PopularityRank>22622</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.leadertelegram.com</DataUrl>
+							<Title>The Eau Claire Leader Telegram</Title>
+							<PopularityRank>22848</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.villagevoice.com</DataUrl>
+							<Title>The Village Voice</Title>
+							<PopularityRank>22881</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.uexpress.com</DataUrl>
+							<Title>Universal Press Syndicate</Title>
+							<PopularityRank>22888</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.worldweatheronline.com</DataUrl>
+							<Title>Worldwide weather forecast and weather content provider</Title>
+							<PopularityRank>22941</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.myrtlebeachonline.com</DataUrl>
+							<Title>The Sun-News</Title>
+							<PopularityRank>23062</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news-gazette.com</DataUrl>
+							<Title>The News-Gazette Online</Title>
+							<PopularityRank>23126</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">ipsnews.net</DataUrl>
+							<Title>IPS Inter Press Service - Global News Agency</Title>
+							<PopularityRank>23198</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mycentraljersey.com</DataUrl>
+							<Title>MyCentralJersey.com</Title>
+							<PopularityRank>23216</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pitch.com</DataUrl>
+							<Title>The Pitch</Title>
+							<PopularityRank>23702</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thetelegram.com</DataUrl>
+							<Title>The Telegram</Title>
+							<PopularityRank>23715</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.journalnow.com</DataUrl>
+							<Title>Winston-Salem JournalNow</Title>
+							<PopularityRank>23734</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.webwire.com</DataUrl>
+							<Title>WebWire</Title>
+							<PopularityRank>23828</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.grandforksherald.com</DataUrl>
+							<Title>Grand Forks Herald</Title>
+							<PopularityRank>23923</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.inma.org</DataUrl>
+							<Title>International Newspaper Marketing Association</Title>
+							<PopularityRank>23941</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">trib.com</DataUrl>
+							<Title>Casper Star Tribune</Title>
+							<PopularityRank>24052</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailycamera.com</DataUrl>
+							<Title>The Daily Camera</Title>
+							<PopularityRank>24102</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.santacruzsentinel.com</DataUrl>
+							<Title>Santa Cruz Sentinel</Title>
+							<PopularityRank>24175</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.magnumphotos.com</DataUrl>
+							<Title>Magnum Photos</Title>
+							<PopularityRank>24266</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newswise.com</DataUrl>
+							<Title>Newswise</Title>
+							<PopularityRank>24285</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.collegemagazine.com</DataUrl>
+							<Title>College Magazine</Title>
+							<PopularityRank>24341</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.digitalspy.co.uk</DataUrl>
+							<Title>Digital Spy</Title>
+							<PopularityRank>24342</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.statesmanjournal.com</DataUrl>
+							<Title>Statesman Journal</Title>
+							<PopularityRank>24397</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newsgram.com</DataUrl>
+							<Title>NewsGram</Title>
+							<PopularityRank>24430</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.goldcoastbulletin.com.au</DataUrl>
+							<Title>Gold Coast Bulletin</Title>
+							<PopularityRank>24467</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.fredericksburg.com</DataUrl>
+							<Title>Free Lance-Star</Title>
+							<PopularityRank>24491</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nwfdailynews.com</DataUrl>
+							<Title>Northwest Florida Daily News</Title>
+							<PopularityRank>24626</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.businesswireindia.com</DataUrl>
+							<Title>BusinessWire India</Title>
+							<PopularityRank>24638</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.abyznewslinks.com</DataUrl>
+							<Title>ABYZ News Links</Title>
+							<PopularityRank>24693</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ibj.com</DataUrl>
+							<Title>Indianapolis Business Journal</Title>
+							<PopularityRank>24763</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bignewsnetwork.com</DataUrl>
+							<Title>Big News Network.com</Title>
+							<PopularityRank>24789</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailypress.com</DataUrl>
+							<Title>The Daily Press</Title>
+							<PopularityRank>25009</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">bostonreview.net</DataUrl>
+							<Title>Boston Review</Title>
+							<PopularityRank>25097</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.houstonpress.com</DataUrl>
+							<Title>Houston Press</Title>
+							<PopularityRank>25556</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.siouxcityjournal.com</DataUrl>
+							<Title>Sioux City Journal</Title>
+							<PopularityRank>25642</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">news.usc.edu</DataUrl>
+							<Title>USC News</Title>
+							<PopularityRank>25733</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sgvtribune.com</DataUrl>
+							<Title>San Gabriel Valley Tribune</Title>
+							<PopularityRank>25744</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thechronicle.com.au</DataUrl>
+							<Title>The Chronicle</Title>
+							<PopularityRank>25755</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.heraldnet.com</DataUrl>
+							<Title>HeraldNet</Title>
+							<PopularityRank>25771</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.creators.com</DataUrl>
+							<Title>Creators.com</Title>
+							<PopularityRank>25813</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.heraldmailmedia.com</DataUrl>
+							<Title>The Herald-Mail Media</Title>
+							<PopularityRank>25925</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.intellicast.com</DataUrl>
+							<Title>Intellicast</Title>
+							<PopularityRank>26085</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.vcstar.com</DataUrl>
+							<Title>Ventura County Star</Title>
+							<PopularityRank>26286</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ourmidland.com</DataUrl>
+							<Title>Midland Daily News</Title>
+							<PopularityRank>26338</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.naplesnews.com</DataUrl>
+							<Title>Naples Daily News</Title>
+							<PopularityRank>26426</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.saturdayeveningpost.com</DataUrl>
+							<Title>Saturday Evening Post</Title>
+							<PopularityRank>26667</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.personneltoday.com</DataUrl>
+							<Title>Personnel Today.com</Title>
+							<PopularityRank>26931</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.multichannel.com</DataUrl>
+							<Title>Multichannel News</Title>
+							<PopularityRank>26982</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.prfire.co.uk</DataUrl>
+							<Title>PRFire</Title>
+							<PopularityRank>27193</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weather.info</DataUrl>
+							<Title>Weather.info</Title>
+							<PopularityRank>27242</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.greenvilleonline.com</DataUrl>
+							<Title>The Greenville News</Title>
+							<PopularityRank>27245</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.postbulletin.com</DataUrl>
+							<Title>Post-Bulletin</Title>
+							<PopularityRank>27264</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ydr.com</DataUrl>
+							<Title>The York Daily Record</Title>
+							<PopularityRank>27382</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.santafenewmexican.com</DataUrl>
+							<Title>Santa Fe New Mexican</Title>
+							<PopularityRank>27393</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.chicagoreader.com</DataUrl>
+							<Title>Chicago Reader</Title>
+							<PopularityRank>27412</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bradenton.com</DataUrl>
+							<Title>The Bradenton Herald</Title>
+							<PopularityRank>27531</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sunshinecoastdaily.com.au</DataUrl>
+							<Title>Sunshine Coast Daily</Title>
+							<PopularityRank>27593</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.citizensvoice.com</DataUrl>
+							<Title>The Citizens' Voice Newspaper</Title>
+							<PopularityRank>27696</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.summitdaily.com</DataUrl>
+							<Title>Summit Daily - Breckenridge and Frisco Colorado</Title>
+							<PopularityRank>27767</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.metrotimes.com</DataUrl>
+							<Title>Metro Times</Title>
+							<PopularityRank>27796</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theledger.com</DataUrl>
+							<Title>The Ledger</Title>
+							<PopularityRank>27807</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">match.net.tw</DataUrl>
+							<Title>match生活網</Title>
+							<PopularityRank>27834</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.humsub.com.pk</DataUrl>
+							<Title>humsub.com.pk</Title>
+							<PopularityRank>27886</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.argusleader.com</DataUrl>
+							<Title>Argus Leader Media</Title>
+							<PopularityRank>27909</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.civilbeat.org</DataUrl>
+							<Title>Honolulu Civil Beat</Title>
+							<PopularityRank>27994</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.onlinenewspapers.com</DataUrl>
+							<Title>Newspapers on the Net</Title>
+							<PopularityRank>28104</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.journalism.co.uk</DataUrl>
+							<Title>Journalism UK</Title>
+							<PopularityRank>28174</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sfweekly.com</DataUrl>
+							<Title>SF Weekly</Title>
+							<PopularityRank>28192</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.zindaa.mn</DataUrl>
+							<Title>zindaa.mn</Title>
+							<PopularityRank>28300</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">djournal.com</DataUrl>
+							<Title>Northeast Mississippi Daily Journal</Title>
+							<PopularityRank>28304</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theoaklandpress.com</DataUrl>
+							<Title>The Oakland Press</Title>
+							<PopularityRank>28308</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lmtonline.com</DataUrl>
+							<Title>Laredo Morning Times</Title>
+							<PopularityRank>28503</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nhregister.com</DataUrl>
+							<Title>New Haven Register</Title>
+							<PopularityRank>28524</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.starofmysore.com</DataUrl>
+							<Title>Star of Mysore</Title>
+							<PopularityRank>28533</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.commercialappeal.com</DataUrl>
+							<Title>Memphis Commercial Appeal</Title>
+							<PopularityRank>28560</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news-press.com</DataUrl>
+							<Title>The News-Press</Title>
+							<PopularityRank>28586</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.timesleader.com</DataUrl>
+							<Title>The Times Leader</Title>
+							<PopularityRank>28624</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thedestinlog.com</DataUrl>
+							<Title>The Destin Log</Title>
+							<PopularityRank>28632</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gwinnettdailypost.com</DataUrl>
+							<Title>Gwinnett Daily Post</Title>
+							<PopularityRank>28723</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.washingtonmonthly.com</DataUrl>
+							<Title>Washington Monthly Online</Title>
+							<PopularityRank>28735</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.columbian.com</DataUrl>
+							<Title>The Columbian</Title>
+							<PopularityRank>28748</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pasadenastarnews.com</DataUrl>
+							<Title>Pasadena Star-News</Title>
+							<PopularityRank>28836</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.independent.com</DataUrl>
+							<Title>Santa Barbara Independent</Title>
+							<PopularityRank>28941</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.jamestown.org</DataUrl>
+							<Title>Jamestown Foundation</Title>
+							<PopularityRank>29057</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.biv.com</DataUrl>
+							<Title>Business in Vancouver</Title>
+							<PopularityRank>29106</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wacotrib.com</DataUrl>
+							<Title>Waco Tribune-Herald</Title>
+							<PopularityRank>29437</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.examiner.com.au</DataUrl>
+							<Title>The Examiner</Title>
+							<PopularityRank>29441</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rcinet.ca</DataUrl>
+							<Title>Radio Canada International</Title>
+							<PopularityRank>29719</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.signalscv.com</DataUrl>
+							<Title>Santa Clarita Valley Signal</Title>
+							<PopularityRank>29811</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.wan-ifra.org</DataUrl>
+							<Title>IFRA online</Title>
+							<PopularityRank>29934</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nytco.com</DataUrl>
+							<Title>The New York Times Company</Title>
+							<PopularityRank>29944</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">pulitzercenter.org</DataUrl>
+							<Title>The World Security Institute's Pulitzer Center on Crisis Reporting</Title>
+							<PopularityRank>30152</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lansingstatejournal.com</DataUrl>
+							<Title>Lansing State Journal</Title>
+							<PopularityRank>30405</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.pnj.com</DataUrl>
+							<Title>Pensacola News Journal</Title>
+							<PopularityRank>30517</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.theday.com</DataUrl>
+							<Title>The New London Day</Title>
+							<PopularityRank>30683</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.qconline.com</DataUrl>
+							<Title>Quad-Cities Online</Title>
+							<PopularityRank>30700</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tcpalm.com</DataUrl>
+							<Title>TCPalm.com</Title>
+							<PopularityRank>30775</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.adbusters.org</DataUrl>
+							<Title>Adbusters</Title>
+							<PopularityRank>30803</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.burlingtonfreepress.com</DataUrl>
+							<Title>Burlington Free Press Online</Title>
+							<PopularityRank>30822</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.cpj.org</DataUrl>
+							<Title>Committee to Protect Journalists (CPJ)</Title>
+							<PopularityRank>30971</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.themercury.com.au</DataUrl>
+							<Title>The Mercury</Title>
+							<PopularityRank>31345</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lee.net</DataUrl>
+							<Title>Lee Enterprises</Title>
+							<PopularityRank>31387</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weatherforyou.com</DataUrl>
+							<Title>Weather for You</Title>
+							<PopularityRank>31397</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.calgarysun.com</DataUrl>
+							<Title>Calgary Sun</Title>
+							<PopularityRank>31427</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.montgomeryadvertiser.com</DataUrl>
+							<Title>Montgomery Advertiser</Title>
+							<PopularityRank>31454</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.broowaha.com</DataUrl>
+							<Title>BrooWaha</Title>
+							<PopularityRank>31541</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.qt.com.au</DataUrl>
+							<Title>The Queensland Times</Title>
+							<PopularityRank>31621</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">wenatcheeworld.com</DataUrl>
+							<Title>Wenatchee World</Title>
+							<PopularityRank>31685</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.totaltele.com</DataUrl>
+							<Title>Total Telecom</Title>
+							<PopularityRank>31743</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news.cornell.edu</DataUrl>
+							<Title>Cornell University News Service</Title>
+							<PopularityRank>31966</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.weatherflow.com</DataUrl>
+							<Title>WeatherFlow Inc.</Title>
+							<PopularityRank>31970</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailysquib.co.uk</DataUrl>
+							<Title>Daily Squib</Title>
+							<PopularityRank>32107</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestartmagazine.com</DataUrl>
+							<Title>The Start Magazine</Title>
+							<PopularityRank>32130</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gazettetimes.com</DataUrl>
+							<Title>Gazette Times</Title>
+							<PopularityRank>32135</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.durangoherald.com</DataUrl>
+							<Title>Durango Herald</Title>
+							<PopularityRank>32157</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.oaoa.com</DataUrl>
+							<Title>Odessa American Online</Title>
+							<PopularityRank>32283</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.journaltimes.com</DataUrl>
+							<Title>The Journal Times</Title>
+							<PopularityRank>32427</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.universalhub.com</DataUrl>
+							<Title>Universal Hub</Title>
+							<PopularityRank>32547</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.lacrossetribune.com</DataUrl>
+							<Title>La Crosse Tribune</Title>
+							<PopularityRank>32602</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gainesville.com</DataUrl>
+							<Title>The Gainesville Sun</Title>
+							<PopularityRank>32743</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gannett.com</DataUrl>
+							<Title>Gannett Co., Inc.</Title>
+							<PopularityRank>32799</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailycal.org</DataUrl>
+							<Title>The Daily Californian</Title>
+							<PopularityRank>32860</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.stanforddaily.com</DataUrl>
+							<Title>The Stanford Daily</Title>
+							<PopularityRank>32943</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.standard.net</DataUrl>
+							<Title>Standard-Examiner</Title>
+							<PopularityRank>32955</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.concordmonitor.com</DataUrl>
+							<Title>Concord Monitor</Title>
+							<PopularityRank>33071</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newstimes.com</DataUrl>
+							<Title>News-Times</Title>
+							<PopularityRank>33117</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.flash90.com</DataUrl>
+							<Title>Flash90</Title>
+							<PopularityRank>33134</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.journalism.org</DataUrl>
+							<Title>Project for Excellence in Journalism and the Committee of Concerned Journalists</Title>
+							<PopularityRank>33372</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.rivernewsonline.com</DataUrl>
+							<Title>The Northwoods River News</Title>
+							<PopularityRank>33438</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.islandpacket.com</DataUrl>
+							<Title>Island Packet</Title>
+							<PopularityRank>33609</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.thestarphoenix.com</DataUrl>
+							<Title>The Star Phoenix</Title>
+							<PopularityRank>33671</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.courierpostonline.com</DataUrl>
+							<Title>Courier-Post Online</Title>
+							<PopularityRank>33751</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.stlamerican.com</DataUrl>
+							<Title>St Louis American</Title>
+							<PopularityRank>33791</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.delmarvanow.com</DataUrl>
+							<Title>Delmarvanow.com</Title>
+							<PopularityRank>33880</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">starlocalmedia.com</DataUrl>
+							<Title>Star Local Media</Title>
+							<PopularityRank>33901</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.bakersfield.com</DataUrl>
+							<Title>The Bakersfield Californian</Title>
+							<PopularityRank>33967</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.savannahnow.com</DataUrl>
+							<Title>Savannah Morning News</Title>
+							<PopularityRank>33983</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailybulletin.com</DataUrl>
+							<Title>Daily Bulletin</Title>
+							<PopularityRank>34035</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">aap.com.au</DataUrl>
+							<Title>AAP Information Services</Title>
+							<PopularityRank>34068</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.sacurrent.com</DataUrl>
+							<Title>San Antonio Current</Title>
+							<PopularityRank>34145</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.greenbaypressgazette.com</DataUrl>
+							<Title>Green Bay Press-Gazette</Title>
+							<PopularityRank>34190</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">bismarcktribune.com</DataUrl>
+							<Title>Bismarck Tribune</Title>
+							<PopularityRank>34197</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.harpers.org</DataUrl>
+							<Title>Harper's Magazine</Title>
+							<PopularityRank>34215</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dl-online.com</DataUrl>
+							<Title>DL Online</Title>
+							<PopularityRank>34320</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailybruin.com</DataUrl>
+							<Title>Daily Bruin</Title>
+							<PopularityRank>34410</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.epa.eu</DataUrl>
+							<Title>European Pressphoto Agency</Title>
+							<PopularityRank>34524</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.mauinews.com</DataUrl>
+							<Title>The Maui News</Title>
+							<PopularityRank>34555</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">newsminer.com</DataUrl>
+							<Title>Fairbanks Daily News-Miner</Title>
+							<PopularityRank>34604</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nationalnewswatch.com</DataUrl>
+							<Title>National Newswatch</Title>
+							<PopularityRank>34768</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">newsroom.ucla.edu</DataUrl>
+							<Title>University of California Los Angeles News and Information</Title>
+							<PopularityRank>34798</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">helenair.com</DataUrl>
+							<Title>Helena Independent Record</Title>
+							<PopularityRank>34845</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.fitsnews.com</DataUrl>
+							<Title>FITSNews</Title>
+							<PopularityRank>35115</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.herald-review.com</DataUrl>
+							<Title>Decatur Herald &amp; Review</Title>
+							<PopularityRank>35272</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.whig.com</DataUrl>
+							<Title>Quincy Herald-Whig</Title>
+							<PopularityRank>35345</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.yakimaherald.com</DataUrl>
+							<Title>Yakima Herald</Title>
+							<PopularityRank>35595</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.courierpress.com</DataUrl>
+							<Title>Courier and Press</Title>
+							<PopularityRank>35636</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.kitsapsun.com</DataUrl>
+							<Title>The Sun Newspaper</Title>
+							<PopularityRank>35640</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.tvtechnology.com</DataUrl>
+							<Title>TV Technology</Title>
+							<PopularityRank>35657</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.navhindtimes.in</DataUrl>
+							<Title>Navhind Times</Title>
+							<PopularityRank>35840</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">dcourier.com</DataUrl>
+							<Title>The Daily Courier</Title>
+							<PopularityRank>36030</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.southbendtribune.com</DataUrl>
+							<Title>South Bend Tribune</Title>
+							<PopularityRank>36253</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.news-journalonline.com</DataUrl>
+							<Title>Daytona Beach News Journal</Title>
+							<PopularityRank>36364</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.morungexpress.com</DataUrl>
+							<Title>The Morung Express</Title>
+							<PopularityRank>36412</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.aspentimes.com</DataUrl>
+							<Title>Aspen Times - Aspen Colorado</Title>
+							<PopularityRank>36601</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.dailyprogress.com</DataUrl>
+							<Title>Charlottesville Daily Progress</Title>
+							<PopularityRank>36655</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ocala.com</DataUrl>
+							<Title>Ocala.com</Title>
+							<PopularityRank>36890</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.vancourier.com</DataUrl>
+							<Title>Vancouver Courier</Title>
+							<PopularityRank>37059</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.ljworld.com</DataUrl>
+							<Title>Lawrence Journal World</Title>
+							<PopularityRank>37126</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nwaonline.com</DataUrl>
+							<Title>Northwest Arkansas Democrat-Gazette</Title>
+							<PopularityRank>37259</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.washingtoncitypaper.com</DataUrl>
+							<Title>Washington CityPaper</Title>
+							<PopularityRank>37319</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.newseum.org</DataUrl>
+							<Title>Newseum</Title>
+							<PopularityRank>37328</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.gracenote.com</DataUrl>
+							<Title>Gracenote</Title>
+							<PopularityRank>37403</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.capegazette.com</DataUrl>
+							<Title>Cape Gazette</Title>
+							<PopularityRank>37493</PopularityRank>
+						</Listing>
+						<Listing>
+							<DataUrl type="navigable">www.nashvillepost.com</DataUrl>
+							<Title>NashvillePost.com</Title>
+							<PopularityRank>37576</PopularityRank>
+						</Listing>
+					</Listings>
+					<ReviewersRaveListings />
+				</CategoryListings>
+			</Alexa>
+		</Result>
+		<ResponseStatus>
+			<StatusCode>200</StatusCode>
+		</ResponseStatus>
+	</Results>
+</Awis>
