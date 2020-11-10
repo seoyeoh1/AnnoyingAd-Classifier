@@ -8,7 +8,10 @@ I conducted research on examining the negative effect of annoying ads on website
 (accepted to the 2021 American Marketing Association Winter Academic Conference as competitive paper)
 
 Code is organized as follows:
+
   data_collection: I crawled 600 ads manually from randomly selected sites
+  
   model: preprocessing data, training and exporting classification model (Random Forest)
+  
   ad_classifier_application.py: application of classifier
                                 - automatic framework for detecting, categorizing, and counting annoying/acceptable ads when accessing a site
